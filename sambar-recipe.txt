@@ -1,0 +1,3 @@
+open fridge
+heat up sambar
+eat and enjoy!!!
